@@ -1,7 +1,1 @@
-contract.sol
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
-contract MyToken {
-    string public name = "Test Coin";
-}
+my-web3-token
