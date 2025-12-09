@@ -8,3 +8,4 @@ contract MyToken {
 // Fixed typo in documentation
 // Added security check
 // Optimized gas usage
+// Updated solidity version
