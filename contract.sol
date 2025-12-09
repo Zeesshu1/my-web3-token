@@ -7,3 +7,4 @@ contract MyToken {
 // Update alpha version
 // Fixed typo in documentation
 // Added security check
+// Optimized gas usage
