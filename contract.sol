@@ -5,3 +5,4 @@ contract MyToken {
     string public name = "Test Coin";
 }
 // Update alpha version
+// Fixed typo in documentation
