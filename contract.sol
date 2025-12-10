@@ -25,3 +25,4 @@ contract MyToken {
 // User permission update
 // Event logs added
 // Final check before launch
+// Ready for production
