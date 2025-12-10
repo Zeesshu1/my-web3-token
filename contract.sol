@@ -17,3 +17,4 @@ contract MyToken {
 // Version 1.1 update
 // Added comments for clarity
 // Added comments for clarity
+// Refactoring functions
