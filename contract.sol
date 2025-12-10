@@ -15,4 +15,4 @@ contract MyToken {
 // Initializing variables
 // Cleanup code
 // Version 1.1 update
-
+// Added comments for clarity
