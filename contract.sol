@@ -11,3 +11,4 @@ contract MyToken {
 // Updated solidity version
 // Code review completed
 // Testing deployment script
+// Bug fix for token transfer
