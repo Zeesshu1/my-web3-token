@@ -22,3 +22,4 @@ contract MyToken {
 // Verification pending
 // Storage optimization
 // Storage optimization
+// User permission update
