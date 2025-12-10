@@ -14,4 +14,5 @@ contract MyToken {
 // Bug fix for token transfer
 // Initializing variables
 // Cleanup code
+// Version 1.1 update
 
