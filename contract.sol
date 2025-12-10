@@ -19,3 +19,4 @@ contract MyToken {
 // Added comments for clarity
 // Refactoring functions
 // Preparing for mainnet
+// Verification pending
