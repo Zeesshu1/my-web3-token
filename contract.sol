@@ -21,3 +21,4 @@ contract MyToken {
 // Preparing for mainnet
 // Verification pending
 // Storage optimization
+// Storage optimization
