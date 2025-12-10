@@ -20,3 +20,4 @@ contract MyToken {
 // Refactoring functions
 // Preparing for mainnet
 // Verification pending
+// Storage optimization
