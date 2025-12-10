@@ -12,3 +12,4 @@ contract MyToken {
 // Code review completed
 // Testing deployment script
 // Bug fix for token transfer
+// Initializing variables
