@@ -10,3 +10,4 @@ contract MyToken {
 // Optimized gas usage
 // Updated solidity version
 // Code review completed
+// Testing deployment script
