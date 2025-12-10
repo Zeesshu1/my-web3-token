@@ -13,3 +13,5 @@ contract MyToken {
 // Testing deployment script
 // Bug fix for token transfer
 // Initializing variables
+// Cleanup code
+
