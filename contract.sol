@@ -23,3 +23,4 @@ contract MyToken {
 // Storage optimization
 // Storage optimization
 // User permission update
+// Event logs added
