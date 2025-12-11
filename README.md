@@ -1,7 +1,7 @@
-# 🪙 \[Aapke Token Ka Naam] (\[Aapka Token Symbol, jaise MWT])
+# 🪙 \[laddo] (\[LZZ])
 
 ## 🌟 Parichay (Introduction)
-Yeh **\[Aapke Token Ka Naam] (\[Symbol])** ek **\[Standard Likhein, jaise ERC-20 ya ERC-721]** standard ka token hai, jo **\[Blockchain ka Naam Likhein, jaise Ethereum, Polygon, ya Binance Smart Chain (BSC)]** blockchain par deploy kiya gaya hai.
+Yeh **\[laddo] (\[LZZ])** ek **\[Standard Likhein, jaise ERC-20 ya ERC-721]** standard ka token hai, jo **\[Blockchain ka Naam Likhein, jaise Ethereum, Polygon, ya Binance Smart Chain (BSC)]** blockchain par deploy kiya gaya hai.
 
 Is token ka mukhya uddeshya **\[Uddeshya Batayein, jaise ki 'ek basic utility token banana', 'voting rights dena', ya 'dApp mein payment ke liye upyog hona']** hai.
 
