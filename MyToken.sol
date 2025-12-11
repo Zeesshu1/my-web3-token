@@ -13,8 +13,7 @@ contract MyToken is ERC20, Ownabl
         Ownable(msg
     {
         // Constructor, टोकन बनाने वाले (Deployer) को initialSupply मिंट करता है।
-        _mint(msg.sender, initialSuppl
-
+        _mint(msg.sender, initialSu
     // आप बाद में भविष्य में टोकन को मिंट (Mint) करने के लिए यह फ़ंक्शन जोड़ सकते ह
     // यह फ़ंक्शन केवल कॉन्ट्रैक्ट के मालिक (Owner) द्वाराल किया सकता ह
     function mint(address to, uint256 amount) public o
