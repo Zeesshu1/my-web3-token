@@ -9,7 +9,7 @@ contract MyToken is ERC20, Ownabl
     // यहाँ 1000 टोक
     // ERC-20 में 18 डेसिमल होते हैं, इसलिए 1000 *e का उपयोग होता है।
     constructor(uint256 initialSu
-        ERC20("My DeFi Token", "MDFT
+        ERC20("My DeFi Token", "MD
         Ownable(msg.s
     {
         // Constructor, टोकन बनाने वाले (Deployer) को initialSupply मिंट करता है।
