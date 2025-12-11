@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract MyToken is ERC20, Ownabl
     // Constructor में टोकन का नाम, सिंबल, और कुल सप्लाई (Initial Supply) सेट करें।
     // यहाँ 1000 टोकन बनाए जा रहे 
-    // ERC-20 में 18 डेसिमल होते हैं, इसलिए 1000 * 18 (1e21) का उपयोग होता है।
+    // ERC-20 में 18 डेसिमल होते हैं, इसलिए 1000 * (1e21) का उपयोग होता है।
     constructor(uint256 initialSu
         ERC20("My DeFi Token", "MDFT
         Ownable(msg.s
