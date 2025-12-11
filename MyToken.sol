@@ -11,6 +11,3 @@ contract MyToken is ERC20, Ownabl
     constructor(uint2
         ERC20("My DeFi
         
-    {
-        // Constructor, टोकन बनाने वाले (Doyer) को initialSupply मिंट करता है।
-        _mint(msg.sen
