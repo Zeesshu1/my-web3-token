@@ -10,7 +10,7 @@ contract MyToken is ERC20, Ownabl
     // ERC-20 में 18 डेसिमल होते हैं, इए 1000 ग होता है।
     constructor(uint2
         ERC20("My DeFi
-        Ownab
+        
     {
         // Constructor, टोकन बनाने वाले (Doyer) को initialSupply मिंट करता है।
         _mint(msg.sender, 
