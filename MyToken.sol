@@ -4,7 +4,7 @@ pragma solidity ^0.8.20;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract MyToken is ERC20, Ownable {
+contract MyToken is ERC20, Ownabl
     // Constructor में टोकन का नाम, सिंबल, और कुल सप्लाई (Initial Supply) सेट करें।
     // यहाँ 1000 टोकन बनाए जा रहे हैं। 
     // ERC-20 में 18 डेसिमल होते हैं, इसलिए 1000 * 10**18 (1e21) का उपयोग होता है।
