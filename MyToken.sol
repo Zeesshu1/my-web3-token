@@ -9,7 +9,7 @@ contract MyToken is ERC20, Ownabl
     // यहाँ 1000 टोकन बनाए जा रहे हैं। 
     // ERC-20 में 18 डेसिमल होते हैं, इसलिए 1000 * 10**18 (1e21) का उपयोग होता है।
     constructor(uint256 initialSupply)
-        ERC20("My DeFi Token", "MDFT")
+        ERC20("My DeFi Token", "MDFT
         Ownable(msg.sender)
     {
         // Constructor, टोकन बनाने वाले (Deployer) को initialSupply मिंट करता है।
