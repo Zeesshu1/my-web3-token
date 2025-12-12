@@ -2,4 +2,3 @@ mkdir my-optimism-project
 cd my-optimism-project
 npm init -y
 npm init
-g
