@@ -3,4 +3,4 @@ cd my-optimism-project
 npm init -y
 npm init
 git commit -m "Initial commit with package.jso
-git remote add origin
+git remote add orig
