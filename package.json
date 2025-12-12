@@ -2,4 +2,4 @@ mkdir my-optimism-project
 cd my-optimism-project
 npm init -y
 npm init
-git commit -m "Initial commit with package
+git commit -m "Initial commit with pac
