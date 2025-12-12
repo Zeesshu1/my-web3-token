@@ -2,6 +2,6 @@ mkdir my-optimism-project
 cd my-optimism-project
 npm init -y
 npm init
-git commit -m "Initial commit with package.json"
+git commit -m "Initial commit with package.jso
 git remote add origin https://github.com/आपका-जरनेम/my-optimism-project.git
 
