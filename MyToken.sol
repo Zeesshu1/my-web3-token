@@ -7,7 +7,4 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract MyToken is ERC20, Ownable {
     constructor(uint256 initialSupply)
         ERC20("My DeFi Token", "MDFT")
-        Ownable(msg.sender)
-    {
-        _mint(msg.sender, initialSupply);
-    }
+        Ownable
