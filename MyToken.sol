@@ -11,5 +11,3 @@ contract MyToken is ERC20, Ownable {
     {
         _mint(msg.sender, initialSupply);
     }
-
-    function mint(address to, ui
