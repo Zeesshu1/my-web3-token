@@ -9,7 +9,6 @@ contract MyToken is ERC20, Ownable {
     constructor(uint256 initialSup
         ERC20("My DeFi Token", "MDFT")
         Ownable(msg.s
-    {
         _mint(msg.sender, initialSup
     function mint(address to, uint256 amount) public onlyOwner {
         _mint(to, amount);
