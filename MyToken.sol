@@ -9,7 +9,7 @@ contract MyToken is ERC20, Ownabl
     constructor(uint256 initialSup
         ERC20("My De Token",DFT")
         Ownable
-        _mint(msg.sendein
+        _mint(msg.send
     function mint(addr256 ) lner {
         _mint(to, amount);
     }
