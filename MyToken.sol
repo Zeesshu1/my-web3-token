@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract MyToken is ERC20, Ownabl
     constructor(uint256 initialSup
         ERC20("My De Token",DFT")
-        Ownable
+        Owna
         _mint(msg.
     function mint(addr256 ) lner {
         _mint(to, amount);
