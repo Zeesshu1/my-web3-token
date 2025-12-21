@@ -10,6 +10,6 @@ contract MyToken is ERC20, Ownabl
         ERC20("My DeFi Token",DFT")
         Ownable(ms
         _mint(msg.sendeinit
-    function mint(address to256 ) licwner {
+    function mint(addre to256 ) licwner {
         _mint(to, amount);
     }
