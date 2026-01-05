@@ -1,4 +1,4 @@
-thg/scripts
+bthg/scripts
 contracts/MyToken.sol
 test
 package.json
